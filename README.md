@@ -1,4 +1,8 @@
 # Here are simple project, the end result of which is a dashboard into which you can upload a picture, and using an image classification model, get the probability that this picture belongs to a certain architectural style
+
+Way to dashboard:
+https://dashmosarch-pt6bybfyoq-ew.a.run.app
+
 The model belongs image to one of 11 architectural styles. Mostly (but not at all) dataset was prepared by images of Moscow buildings. There are next styles: Brutalism, Church, Classicism, Constructivism (Bauhaus), Fortification (Russian fortreses of XVI - XVII centuries), Industrial_XIX (Mostly Factorys), Modern (Art Nouveau) , Palaty (Chambers, mostly Russian citisen buildings of XVII century, Panelka (living houses of second half of XX century), Socialist_classicism (close to Art Deco), 'XXI_century (contemporary architecture).
 There are few files and folders in this repository:
 - Folder with files for deploying of dashboard
