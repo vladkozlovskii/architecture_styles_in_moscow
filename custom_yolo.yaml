@@ -1,0 +1,10 @@
+# custom_data.yaml
+
+train: /Users/vladkozlovskiy/Desktop/DATAS/_Architecture_CV/_Segmentation_tests/_Segmentations_with_RectLabel/Test_For_Yolo/images/train  # Path to the training images directory
+val: /Users/vladkozlovskiy/Desktop/DATAS/_Architecture_CV/_Segmentation_tests/_Segmentations_with_RectLabel/Test_For_Yolo/images/val      # Path to the validation images directory
+
+# Number of classes
+nc: 1  # If we have one class (e.g., buildings)
+
+# Class names
+names: [0]  
