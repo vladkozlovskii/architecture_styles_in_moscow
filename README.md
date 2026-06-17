@@ -13,3 +13,10 @@ There are few files and one folder in this repository:
 - 04_similarity_images_mos_arch_sept - in this file i made some experiments to visualise similarity of architectural style using my model
 - 05_CAM_mos_arch_sept - in this file I tryed to make some visualisation approaches which often uses for interpetate models of image classification (Grad-CAM, Guided backpropogation, Guided Grad-CAM)
 - custom_yolo.yaml - file for start fitting yolov5 model for object detection
+
+
+The dataset for fitting model locates here:
+https://www.kaggle.com/datasets/vladkozlovskii/dataset-for-recognition-architectural-styles
+
+The dataset for fine-tune yolo model (for crop buildings) locates here:
+https://www.kaggle.com/datasets/vladkozlovskii/dataset-for-fine-tune-yolo-for-crop-buildings/data
